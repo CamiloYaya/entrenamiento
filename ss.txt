@@ -1,0 +1,16 @@
+myoptime es el manejo de proyect manage , necesidades, proyectos del trabajo del dia a dia.... 
+
+id´s son solicitudes que hay dentro de un proyecto para poderlo llevar acabo
+
+id name = "nombre de la id"
+client = nombre del cliente
+projecto = "proyecto del cliente"
+id description = especificaciones de lo solicitado
+
+el segundo equipo depende del primero
+
+
+foto , setting , crear nueva contraseña :V
+
+
+
