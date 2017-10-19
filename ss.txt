@@ -1,5 +1,5 @@
 myoptime es el manejo de proyect manage , necesidades, proyectos del trabajo del dia a dia.... 
-
+asfa
 id´s son solicitudes que hay dentro de un proyecto para poderlo llevar acabo
 
 id name = "nombre de la id"
